@@ -34,11 +34,14 @@ Models migration of legacy decision history into a governed analytical structure
 
 **Demonstrates:** decision intelligence · modernization · historical backfill · reconciliation · migration governance
 
-### 🎬 Media, Streaming & Cross-Platform Measurement
+### 🎬 Media, Streaming & Sports Analytics
 **[Cross-Platform Audience Measurement SQL](https://github.com/7cvega15-code/cross-platform-audience-measurement-sql)**  
 Reproducible partner-feed demo that reconciles platforms with different measurement semantics while keeping download confirmation distinct from measured viewing.
 
-**Demonstrates:** media measurement · metric governance · SQL · reconciliation · executable quality checks · CI
+**[Commercial Sports Performance Analytics](https://github.com/7cvega15-code/commercial-sports-performance-analytics)**  
+Synthetic commercial-performance model for activation, revenue, sales hierarchy, customer/viewing segmentation, and WoW/MoM/YoY KPI measurement.
+
+**Demonstrates:** media measurement · commercial performance analytics · metric governance · SQL · KPI design · reconciliation · automated testing
 
 ### 📊 Operational BI & KPI Governance
 **[Call Center Performance Analytics Platform](https://github.com/7cvega15-code/call-center-performance-analytics-platform)**  
