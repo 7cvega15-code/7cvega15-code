@@ -1,12 +1,12 @@
 # Chris Vega
 
-**Enterprise Data Strategy · AI Enablement · Analytics Transformation**
+**Business Intelligence · Enterprise Data Strategy · AI Enablement**
 
 I solve complex business problems at the intersection of **data, technology, and operations**.
 
 My work spans enterprise BI, governed data products, decision intelligence, modernization, commercialization, and applied AI. Across these projects, the pattern is consistent: define the business problem, make the rules and measurement logic explicit, build a trusted data or workflow foundation, validate it, and turn it into something people can actually use.
 
-> **Portfolio structure:** My [Notion portfolio](https://app.notion.com/p/Chris-Vega-3ad07c414a9980588154d596b27ac369) tells the business and leadership story. The repositories below provide privacy-safe technical evidence through synthetic data, independently reconstructed workflows, SQL/Python implementations, validation controls, and reproducible demos.
+> **Portfolio structure:** My [Notion portfolio](https://honey-safflower-f72.notion.site/Chris-Vega-3ad07c414a9980588154d596b27ac369) tells the business and leadership story. The repositories below provide privacy-safe technical evidence through synthetic data, independently reconstructed workflows, SQL/Python implementations, validation controls, and reproducible demos.
 
 ## Selected Technical Portfolio
 
@@ -51,14 +51,14 @@ Synthetic governed analytics platform integrating CRM activity, telephony events
 
 ## Additional Modernization Work
 
-- **[Property Data Cloud Ingestion & Validation](https://github.com/7cvega15-code/property-data-cloud-ingestion-snowflake-reconstruction)** — external/vendor data ingestion, layered cloud-warehouse design, reconciliation, and reusable governed datasets
-- **[Legacy Reporting Platform Migration Assessment](https://github.com/7cvega15-code/legacy-reporting-platform-migration-assessment)** — dependency mapping, migration-risk scoring, data-gap analysis, reporting continuity, and cutover governance
+- **[Property Data Cloud Ingestion & Validation](https://github.com/7cvega15-code/property-data-cloud-ingestion-snowflake-reconstruction)**: external/vendor data ingestion, layered cloud-warehouse design, reconciliation, and reusable governed datasets
+- **[Legacy Reporting Platform Migration Assessment](https://github.com/7cvega15-code/legacy-reporting-platform-migration-assessment)**: dependency mapping, migration-risk scoring, data-gap analysis, reporting continuity, and cutover governance
 
 ## How I Work
 
 **Business Challenge → Discovery → Requirements & Rules → Data / Workflow Design → Validation → Decision Support → Adoption → Measurement & Improvement**
 
-I am most interested in roles where enterprise data, analytics, AI, and operating-model transformation come together—especially work that requires translating complex business needs across technical and non-technical teams.
+I am most interested in roles where enterprise data, analytics, AI, and operating-model transformation come together, especially work that requires translating complex business needs across technical and non-technical teams.
 
 ## Technologies
 
@@ -68,7 +68,7 @@ I am most interested in roles where enterprise data, analytics, AI, and operatin
 
 ## Connect
 
-- [Notion Portfolio](https://app.notion.com/p/Chris-Vega-3ad07c414a9980588154d596b27ac369)
+- [Notion Portfolio](https://honey-safflower-f72.notion.site/Chris-Vega-3ad07c414a9980588154d596b27ac369)
 - [LinkedIn](https://www.linkedin.com/in/christina-vega-07a1768)
 
 ---
