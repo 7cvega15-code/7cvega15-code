@@ -58,7 +58,7 @@ Synthetic governed analytics platform integrating CRM activity, telephony events
 
 **Business Challenge → Discovery → Requirements & Rules → Data / Workflow Design → Validation → Decision Support → Adoption → Measurement & Improvement**
 
-I am most interested in roles where enterprise data, analytics, AI, and operating-model transformation come together, especially work that requires translating complex business needs across technical and non-technical teams.
+I am most interested in **Business Intelligence and enterprise data leadership roles** where analytics, governed data products, AI enablement, and operating-model transformation come together, especially work that requires translating complex business needs across technical and non-technical teams.
 
 ## Technologies
 
