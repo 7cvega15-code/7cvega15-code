@@ -6,7 +6,7 @@ I solve complex business problems at the intersection of **data, technology, and
 
 My work spans enterprise BI, governed data products, decision intelligence, modernization, commercialization, and applied AI. Across these projects, the pattern is consistent: define the business problem, make the rules and measurement logic explicit, build a trusted data or workflow foundation, validate it, and turn it into something people can actually use.
 
-> **Portfolio structure:** My [Notion portfolio](https://honey-safflower-f72.notion.site/Chris-Vega-3ad07c414a9980588154d596b27ac369) tells the business and leadership story. The repositories below provide privacy-safe technical evidence through synthetic data, independently reconstructed workflows, SQL/Python implementations, validation controls, and reproducible demos.
+> **Portfolio structure:** My [Notion portfolio](https://honey-safflower-f72.notion.site/Chris-Vega-3ad07c414a9980588154d596b27ac369) tells the business and leadership story. The repositories below provide privacy-safe technical evidence through synthetic or public coursework data, independently reconstructed workflows, SQL/Python implementations, validation controls, and reproducible demos.
 
 ## Selected Technical Portfolio
 
@@ -49,9 +49,16 @@ Synthetic governed analytics platform integrating CRM activity, telephony events
 
 **Demonstrates:** BI architecture · KPI governance · CRM/telephony integration · operational analytics · data quality
 
+### 🌸 Applied Machine Learning Coursework
+**[Flower Image Classifier](https://github.com/7cvega15-code/Image-Classifier)**  
+Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A validation-selected ResNet18 model achieved **90.96% first-choice accuracy** and **97.44% top-five accuracy** on 819 held-out flower images. The project includes eleven regression tests, reproducible evaluation, and documented data-quality findings.
+
+**Demonstrates:** transfer learning · validation-based model selection · image preprocessing · checkpoint handling · automated testing · model evaluation
+
 ## Additional Modernization Work
 
 - **[Property Data Cloud Ingestion & Validation](https://github.com/7cvega15-code/property-data-cloud-ingestion-snowflake-reconstruction)**: external/vendor data ingestion, layered cloud-warehouse design, reconciliation, and reusable governed datasets
+- **[Broadband Relocation & Growth Analysis (RANGE)](https://github.com/7cvega15-code/property-data-cloud-ingestion-snowflake-reconstruction/blob/main/docs/broadband-relocation-case-study.md)**: companion case study and tested synthetic SQL example for relocation cohorts, destination service coverage, geographic enrichment, and illustrative re-engagement analysis
 - **[Legacy Reporting Platform Migration Assessment](https://github.com/7cvega15-code/legacy-reporting-platform-migration-assessment)**: dependency mapping, migration-risk scoring, data-gap analysis, reporting continuity, and cutover governance
 
 ## How I Work
@@ -63,7 +70,7 @@ I am most interested in **Business Intelligence and enterprise data leadership r
 ## Technologies
 
 **Data & Analytics:** SQL · Snowflake · Databricks · Teradata · Vertica · Power BI · Tableau · DuckDB  
-**AI & Automation:** OpenAI API · Python · PyTorch/torchvision · transfer learning · structured extraction · workflow routing · configurable business rules  
+**AI & Automation:** OpenAI API · Python · PyTorch/torchvision · ResNet18/AlexNet · transfer learning · structured extraction · workflow routing · configurable business rules  
 **APIs & Applications:** FastAPI · REST APIs · Swagger/OpenAPI · Streamlit  
 **AI Productivity & Development Tools:** ChatGPT/Codex · Claude · Microsoft Copilot · Cursor · Visual Studio Code  
 **Testing & Delivery:** pytest · unittest · Git/GitHub · GitHub Actions · Jira · Azure DevOps  
@@ -76,4 +83,4 @@ I am most interested in **Business Intelligence and enterprise data leadership r
 
 ---
 
-*Portfolio repositories use synthetic or generalized data and independently reconstructed implementations. Employer source code, production data, proprietary schemas, internal identifiers, and confidential business rules are not published.*
+*Enterprise portfolio demonstrations use synthetic or generalized data and independently reconstructed implementations. The flower classifier uses a public coursework dataset. Employer source code, production data, proprietary schemas, internal identifiers, and confidential business rules are not published.*
