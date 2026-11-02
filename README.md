@@ -62,10 +62,12 @@ I am most interested in **Business Intelligence and enterprise data leadership r
 
 ## Technologies
 
-**Data & Analytics:** SQL · Snowflake · Databricks · Power BI · Tableau · DuckDB  
-**AI & Automation:** OpenAI API · Python · FastAPI/REST APIs · PyTorch (Udacity coursework)  
-**AI Productivity & Development Tools:** Claude · Microsoft Copilot  
-**Delivery & Governance:** GitHub · requirements translation · testing · data quality · measurement frameworks · cross-functional leadership
+**Data & Analytics:** SQL · Snowflake · Databricks · Teradata · Vertica · Power BI · Tableau · DuckDB  
+**AI & Automation:** OpenAI API · Python · PyTorch/torchvision · transfer learning · structured extraction · workflow routing · configurable business rules  
+**APIs & Applications:** FastAPI · REST APIs · Swagger/OpenAPI · Streamlit  
+**AI Productivity & Development Tools:** ChatGPT/Codex · Claude · Microsoft Copilot · Cursor · Visual Studio Code  
+**Testing & Delivery:** pytest · unittest · Git/GitHub · GitHub Actions · Jira · Azure DevOps  
+**Data Design & Governance:** dimensional modeling · source-to-target mapping · Business Ready Datasets · data quality · reconciliation · KPI governance · human review · audit logging
 
 ## Connect
 
