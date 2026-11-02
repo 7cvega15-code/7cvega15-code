@@ -63,7 +63,7 @@ I am most interested in **Business Intelligence and enterprise data leadership r
 ## Technologies
 
 **Data & Analytics:** SQL · Snowflake · Databricks · Power BI · Tableau · DuckDB  
-**AI & Automation:** Python · OpenAI API · Claude · Copilot  
+**AI & Automation:** OpenAI API · Python · FastAPI/REST APIs · LangChain · MCP · PyTorch · Claude · Microsoft Copilot · GitHub Copilot  
 **Delivery & Governance:** GitHub · requirements translation · testing · data quality · measurement frameworks · cross-functional leadership
 
 ## Connect
