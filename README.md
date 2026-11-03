@@ -10,6 +10,12 @@ At AT&T and DIRECTV, I led analytics projects for retention, campaign measuremen
 
 ## Selected Technical Portfolio
 
+### 🤖 Applied AI & Workflow Governance
+**[VVC AI Lead Workflow MVP](https://github.com/7cvega15-code/VVC_AI_MVP_Complete_Lead_V1)**  
+Python/OpenAI workflow that converts freeform inquiries into structured data, applies deterministic business rules, recommends next actions, routes workflows, and generates review-ready responses with human oversight.
+
+**Demonstrates:** AI workflow design · deterministic decision logic · prompt/API integration · testing · human-in-the-loop governance
+
 ### 🌸 Applied Machine Learning Coursework
 **[Flower Image Classifier](https://github.com/7cvega15-code/Image-Classifier)**  
 Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A publicly downloadable, validation-selected ResNet18 model achieved **91.09% first-choice accuracy** and **98.29% top-five accuracy** on 819 held-out flower images. The project includes fourteen regression tests, reproducible evaluation, and documented data-quality findings.
@@ -18,11 +24,6 @@ Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A publi
 
 **Demonstrates:** transfer learning · validation-based model selection · image preprocessing · checkpoint handling · automated testing · model evaluation
 
-### 🤖 Applied AI & Workflow Governance
-**[VVC AI Lead Workflow MVP](https://github.com/7cvega15-code/VVC_AI_MVP_Complete_Lead_V1)**  
-Python/OpenAI workflow that converts freeform inquiries into structured data, applies deterministic business rules, recommends next actions, routes workflows, and generates review-ready responses with human oversight.
-
-**Demonstrates:** AI workflow design · deterministic decision logic · prompt/API integration · testing · human-in-the-loop governance
 
 ### 🧱 Enterprise Data Integration & Dimensional Modeling
 **[Dealer Data Integration & Dimensional Modeling](https://github.com/7cvega15-code/dealer-data-integration-dimensional-model)**  
