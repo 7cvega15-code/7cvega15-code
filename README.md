@@ -2,13 +2,21 @@
 
 **Business Intelligence · Enterprise Data Strategy · AI Enablement**
 
-I solve complex business problems at the intersection of **data, technology, and operations**.
+I help teams get clear answers from their data and turn those answers into action.
 
-My work spans enterprise BI, governed data products, decision intelligence, modernization, commercialization, and applied AI. Across these projects, the pattern is consistent: define the business problem, make the rules and measurement logic explicit, build a trusted data or workflow foundation, validate it, and turn it into something people can actually use.
+At AT&T and DIRECTV, I led analytics projects for retention, campaign measurement, and executive reporting. I worked with business leaders and technical teams to sort out requirements, agree on the numbers, and deliver tools people could use. Here, I share examples of that work using synthetic data, along with Python and AI projects I’ve built through coursework and for my photobooth business.
 
 > **Portfolio structure:** My [Notion portfolio](https://honey-safflower-f72.notion.site/Chris-Vega-3ad07c414a9980588154d596b27ac369) tells the business and leadership story. The repositories below provide privacy-safe technical evidence through synthetic or public coursework data, independently reconstructed workflows, SQL/Python implementations, validation controls, and reproducible demos.
 
 ## Selected Technical Portfolio
+
+### 🌸 Applied Machine Learning Coursework
+**[Flower Image Classifier](https://github.com/7cvega15-code/Image-Classifier)**  
+Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A publicly downloadable, validation-selected ResNet18 model achieved **91.09% first-choice accuracy** and **98.29% top-five accuracy** on 819 held-out flower images. The project includes fourteen regression tests, reproducible evaluation, and documented data-quality findings.
+
+[Download the trained model](https://github.com/7cvega15-code/Image-Classifier/releases/tag/model-v2-41674454513) and follow the repository's prediction instructions. Training is optional for trying the saved model.
+
+**Demonstrates:** transfer learning · validation-based model selection · image preprocessing · checkpoint handling · automated testing · model evaluation
 
 ### 🤖 Applied AI & Workflow Governance
 **[VVC AI Lead Workflow MVP](https://github.com/7cvega15-code/VVC_AI_MVP_Complete_Lead_V1)**  
@@ -48,14 +56,6 @@ Synthetic commercial-performance model for activation, revenue, sales hierarchy,
 Synthetic governed analytics platform integrating CRM activity, telephony events, agent hierarchy, and order outcomes into reusable KPI reporting and operational scorecards.
 
 **Demonstrates:** BI architecture · KPI governance · CRM/telephony integration · operational analytics · data quality
-
-### 🌸 Applied Machine Learning Coursework
-**[Flower Image Classifier](https://github.com/7cvega15-code/Image-Classifier)**  
-Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A publicly downloadable, validation-selected ResNet18 model achieved **91.09% first-choice accuracy** and **98.29% top-five accuracy** on 819 held-out flower images. The project includes fourteen regression tests, reproducible evaluation, and documented data-quality findings.
-
-[Download the trained model](https://github.com/7cvega15-code/Image-Classifier/releases/tag/model-v2-41674454513) and follow the repository's prediction instructions. Training is optional for trying the saved model.
-
-**Demonstrates:** transfer learning · validation-based model selection · image preprocessing · checkpoint handling · automated testing · model evaluation
 
 ## Additional Modernization Work
 
