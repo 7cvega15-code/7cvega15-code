@@ -51,7 +51,9 @@ Synthetic governed analytics platform integrating CRM activity, telephony events
 
 ### 🌸 Applied Machine Learning Coursework
 **[Flower Image Classifier](https://github.com/7cvega15-code/Image-Classifier)**  
-Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A validation-selected ResNet18 model achieved **90.96% first-choice accuracy** and **97.44% top-five accuracy** on 819 held-out flower images. The project includes eleven regression tests, reproducible evaluation, and documented data-quality findings.
+Udacity Python/PyTorch coursework completed in 2024 and updated in 2026. A publicly downloadable, validation-selected ResNet18 model achieved **91.09% first-choice accuracy** and **98.29% top-five accuracy** on 819 held-out flower images. The project includes fourteen regression tests, reproducible evaluation, and documented data-quality findings.
+
+[Download the trained model](https://github.com/7cvega15-code/Image-Classifier/releases/tag/model-v2-41674454513) and follow the repository's prediction instructions. Training is optional for trying the saved model.
 
 **Demonstrates:** transfer learning · validation-based model selection · image preprocessing · checkpoint handling · automated testing · model evaluation
 
